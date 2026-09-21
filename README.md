@@ -1,7 +1,7 @@
 # Social Angel
 
 <p align="center">
-  <img src="social-angel-logo.png" alt="Social Angel Logo" width="180">
+  <img src="/public/social-angel-logo.png" alt="Social Angel Logo" width="180">
 </p>
 
 <h1 align="center">Social Angel</h1>

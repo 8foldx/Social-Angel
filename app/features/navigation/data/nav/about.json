@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "About Us",
+    "to": "/about",
+    "description": "Learn about our mission, our story, and how we help people make a difference."
+  },
+  {
+    "id": 2,
+    "name": "Contact Us",
+    "to": "/contact-us",
+    "description": "Get in touch with our team for questions, support, or partnership inquiries."
+  },
+  {
+    "id": 3,
+    "name": "Jobs",
+    "to": "/jobs",
+    "description": "Explore career opportunities and join our team in creating meaningful change."
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Help 12-Year-Old Abdul Rehman Get Life-Saving Medicines for Rare Disease",
+    "organization": "Sevarth Mission Foundation",
+    "image": "https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 38,
+    "raised": "₹11,300",
+    "donors": 16,
+    "href": "/campaigns/1"
+  },
+  {
+    "id": 2,
+    "title": "Help a Child Receive Urgent Medical Treatment",
+    "organization": "Hope Foundation",
+    "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 62,
+    "raised": "₹18,500",
+    "donors": 24,
+    "href": "/campaigns/2"
+  },
+  {
+    "id": 3,
+    "title": "Help 4-Year-Old Atharav Beat Spinal Muscular Atrophy",
+    "organization": "Brajendra Swaroop Foundation",
+    "image": "https://images.unsplash.com/photo-1559757175-0eb30cd8c063?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 45,
+    "raised": "₹7,163",
+    "donors": 7,
+    "href": "/campaigns/3"
+  },
+  {
+    "id": 4,
+    "title": "Help Kaushal Devi, a Widow in Dehradun, Fight Cancer Alone",
+    "organization": "Amanpreet Gautam",
+    "image": "https://images.unsplash.com/photo-1551836022-d5d88e9218df?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 31,
+    "raised": "₹9,850",
+    "donors": 12,
+    "href": "/campaigns/4"
+  },
+  {
+    "id": 5,
+    "title": "Support a Family Facing a Critical Medical Emergency",
+    "organization": "Care Mission",
+    "image": "https://images.unsplash.com/photo-1576091160550-2173dba999ef?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 54,
+    "raised": "₹21,400",
+    "donors": 29,
+    "href": "/campaigns/5"
+  },
+  {
+    "id": 6,
+    "title": "Help a Young Patient Continue Essential Treatment",
+    "organization": "Hope Care Foundation",
+    "image": "https://images.unsplash.com/photo-1584515933487-779824d29309?auto=format&fit=crop&w=800&q=80",
+    "verified": true,
+    "progress": 72,
+    "raised": "₹32,700",
+    "donors": 41,
+    "href": "/campaigns/6"
+  }
+]

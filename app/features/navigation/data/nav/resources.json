@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Code Of Practice",
+    "to": "/code-of-practice",
+    "description": "Understand our principles, guidelines, and standards for responsible fundraising."
+  },
+  {
+    "id": 2,
+    "name": "Pricing",
+    "to": "/pricing",
+    "description": "Explore our pricing, fees, and available fundraising plans."
+  },
+  {
+    "id": 3,
+    "name": "How It Works",
+    "to": "/how-it-works",
+    "description": "Learn how to start a fundraiser, receive donations, and make an impact."
+  },
+  {
+    "id": 4,
+    "name": "FAQs",
+    "to": "/faqs",
+    "description": "Find answers to common questions about fundraising and our platform."
+  },
+  {
+    "id": 5,
+    "name": "Help Centre",
+    "to": "/help-centre",
+    "description": "Get guidance and support for using the platform and managing your fundraiser."
+  },
+  {
+    "id": 6,
+    "name": "Blog",
+    "to": "/blog",
+    "description": "Read stories, tips, and insights about fundraising and charitable giving."
+  }
+]

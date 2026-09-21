@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "image": "https://img.daisyui.com/images/stock/photo-1625726411847-8cbb60cc71e6.webp",
+    "title": "Nepal in Crisis With Over 500+ Lives Lost",
+    "description": "Help families affected by the disaster and provide urgent support."
+  },
+  {
+    "id": 2,
+    "image": "https://img.daisyui.com/images/stock/photo-1609621838510-5ad474b7d25d.webp",
+    "title": "Help Families From Jammu",
+    "description": "Support families who urgently need food, shelter and medical assistance."
+  },
+  {
+    "id": 3,
+    "image": "https://img.daisyui.com/images/stock/photo-1414694762283-acccc27bca85.webp",
+    "title": "Support Communities in Need",
+    "description": "Together we can help communities recover and rebuild their lives."
+  },
+  {
+    "id": 4,
+    "image": "https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp",
+    "title": "Help People Rebuild Their Future",
+    "description": "Every contribution can make a meaningful difference."
+  },
+    {
+    "id": 5,
+    "image": "https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp",
+    "title": "Help People Rebuild Their Future",
+    "description": "Every contribution can make a meaningful difference."
+  },
+    {
+    "id": 6,
+    "image": "https://img.daisyui.com/images/stock/photo-1665553365602-b2fb8e5d1707.webp",
+    "title": "Help People Rebuild Their Future",
+    "description": "Every contribution can make a meaningful difference."
+  }
+]

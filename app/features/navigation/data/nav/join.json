@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Non-Profit / Charity",
+    "to": "/partners/non-profit",
+    "description": "Partner with us to support charitable causes and create meaningful community impact."
+  },
+  {
+    "id": 2,
+    "name": "Healthcare Partner",
+    "to": "/partners/healthcare",
+    "description": "Join our network to support patient care, medical services, and healthcare initiatives."
+  },
+  {
+    "id": 3,
+    "name": "Education Partner",
+    "to": "/partners/education",
+    "description": "Help expand access to education, learning resources, and scholarship opportunities."
+  },
+  {
+    "id": 4,
+    "name": "Individual / Volunteer",
+    "to": "/partners/individual",
+    "description": "Contribute your time, skills, and passion to help people and communities in need."
+  },
+  {
+    "id": 5,
+    "name": "Self-Help Group / Community",
+    "to": "/partners/community",
+    "description": "Bring your community together to support local needs and shared causes."
+  },
+  {
+    "id": 6,
+    "name": "CSR Partner",
+    "to": "/partners/csr",
+    "description": "Collaborate on social responsibility initiatives and make a positive, measurable impact."
+  },
+  {
+    "id": 7,
+    "name": "Media Partner",
+    "to": "/partners/media",
+    "description": "Help amplify important causes through storytelling, awareness, and media outreach."
+  },
+  {
+    "id": 8,
+    "name": "Supplier / Service Partner",
+    "to": "/partners/supplier",
+    "description": "Provide products, services, or expertise that help charitable initiatives reach their goals."
+  },
+  {
+    "id": 9,
+    "name": "Influencer / Celebrity",
+    "to": "/partners/influencer",
+    "description": "Use your platform and voice to raise awareness and encourage support for meaningful causes."
+  }
+]

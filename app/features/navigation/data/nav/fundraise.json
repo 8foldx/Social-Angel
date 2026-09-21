@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "As A Non-Profit",
+    "to": "/partners/non-profit"
+  },
+  {
+    "id": 2,
+    "name": "As An Individual",
+    "dropdown": true,
+    "categories": [
+      {
+        "id": 1,
+        "name": "Medical",
+        "to": "/medical-fundraiser",
+        "description": "Medical care and treatment."
+      },
+      {
+        "id": 2,
+        "name": "Education",
+        "to": "/education-fundraiser",
+        "description": "Education and learning support."
+      },
+      {
+        "id": 3,
+        "name": "Children",
+        "to": "/children-fundraiser",
+        "description": "Support children in need."
+      },
+      {
+        "id": 4,
+        "name": "Animal",
+        "to": "/animal-fundraiser",
+        "description": "Animal rescue and care."
+      },
+      {
+        "id": 5,
+        "name": "Disaster",
+        "to": "/disaster-fundraiser",
+        "description": "Emergency and disaster relief."
+      },
+      {
+        "id": 6,
+        "name": "Specially Abled",
+        "to": "/specially-abled-fundraiser",
+        "description": "Accessibility and support."
+      },
+      {
+        "id": 7,
+        "name": "Women",
+        "to": "/women-fundraiser",
+        "description": "Support women and their needs."
+      },
+      {
+        "id": 8,
+        "name": "Memorial",
+        "to": "/memorial-fundraiser",
+        "description": "Fundraising in memory of someone."
+      },
+      {
+        "id": 9,
+        "name": "Environment",
+        "to": "/environment-fundraiser",
+        "description": "Environmental and sustainability causes."
+      },
+      {
+        "id": 10,
+        "name": "Lgbtq+",
+        "to": "/lgbtq-fundraiser",
+        "description": "LGBTQ+ community support."
+      },
+      {
+        "id": 11,
+        "name": "Hunger",
+        "to": "/hunger-fundraiser",
+        "description": "Food and nutrition support."
+      },
+      {
+        "id": 12,
+        "name": "Elderly",
+        "to": "/elderly-fundraiser",
+        "description": "Support for older adults."
+      },
+      {
+        "id": 13,
+        "name": "Religious",
+        "to": "/religious-fundraiser",
+        "description": "Religious and community causes."
+      },
+      {
+        "id": 14,
+        "name": "Others",
+        "to": "/other-fundraiser",
+        "description": "Other fundraising causes."
+      }
+    ]
+  }
+]

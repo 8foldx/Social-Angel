@@ -1,0 +1,126 @@
+{
+  "columns": [
+    {
+      "title": "DONATE & GIVE",
+      "links": [
+        {
+          "label": "Browse Campaigns",
+          "to": "/explore-fundraisers"
+        },
+        {
+          "label": "Medical Fundraising",
+          "to": "/explore-categories/medical"
+        },
+        {
+          "label": "Education Campaigns",
+          "to": "/explore-categories/education"
+        },
+        {
+          "label": "Save a Life",
+          "to": "/save-a-life"
+        },
+        {
+          "label": "Sponsor a Kid",
+          "to": "/sponsor-a-kid"
+        },
+        {
+          "label": "Monthly Giving",
+          "to": "/donate-monthly"
+        }
+      ]
+    },
+    {
+      "title": "FUNDRAISE",
+      "links": [
+        {
+          "label": "Start a Fundraiser",
+          "to": "/start-a-fundraiser"
+        },
+        {
+          "label": "Register your Non-Profit",
+          "to": "/partners/non-profit"
+        },
+        {
+          "label": "How It Works",
+          "to": "/how-it-works"
+        },
+        {
+          "label": "What is Crowdfunding",
+          "to": "/what-is-crowdfunding"
+        },
+        {
+          "label": "Pricing & Fees",
+          "to": "/pricing"
+        }
+      ]
+    },
+    {
+      "title": "COMPANY",
+      "links": [
+        {
+          "label": "About Us",
+          "to": "/about"
+        },
+        {
+          "label": "Stories",
+          "to": "/stories"
+        },
+        {
+          "label": "Blog",
+          "to": "/blog"
+        },
+        {
+          "label": "Careers",
+          "to": "/jobs"
+        },
+        {
+          "label": "Contact Us",
+          "to": "/contact-us"
+        }
+      ]
+    },
+    {
+      "title": "SUPPORT",
+      "links": [
+        {
+          "label": "Help Centre",
+          "to": "/help-centre"
+        },
+        {
+          "label": "FAQs",
+          "to": "/faqs"
+        },
+        {
+          "label": "Privacy Policy",
+          "to": "/privacy-policy"
+        },
+        {
+          "label": "Terms of Service",
+          "to": "/terms-of-service"
+        },
+        {
+          "label": "Refund Policy",
+          "to": "/refund-policy"
+        },
+        {
+          "label": "Grievance Redressal",
+          "to": "/grievance-redressal"
+        }
+      ]
+    }
+  ],
+  "bottomLinks": [
+    {
+      "label": "Privacy",
+      "to": "/privacy-policy"
+    },
+    {
+      "label": "Terms",
+      "to": "/terms-of-service"
+    },
+    {
+      "label": "Refunds",
+      "to": "/refund-policy"
+    }
+  ]
+}

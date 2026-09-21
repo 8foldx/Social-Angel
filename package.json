@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-project",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "daisyui": "^5.7.39",
+    "lucide-vue-next": "^1.0.0",
+    "nuxt": "^4.5.2",
+    "swiper": "^14.2.0",
+    "tailwindcss": "^4.3.3",
+    "vue": "^3.5.42",
+    "vue-router": "^5.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.9.3",
+    "vue-tsc": "^3.3.11"
+  }
+}

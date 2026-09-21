@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "name": "Medical",
+    "description": "Treatment, surgery & critical care",
+    "to": "/medical-fundraiser"
+  },
+  {
+    "id": 2,
+    "name": "Education",
+    "description": "Scholarships & school support",
+    "to": "/education-fundraiser"
+  },
+  {
+    "id": 3,
+    "name": "Children",
+    "description": "Care, nutrition & protection",
+    "to": "/children-fundraiser"
+  },
+  {
+    "id": 4,
+    "name": "Animal",
+    "description": "Rescue, feed & shelter",
+    "to": "/animal-fundraiser"
+  },
+  {
+    "id": 5,
+    "name": "Specially Abled",
+    "description": "Aids, therapy & inclusion",
+    "to": "/specially-abled-fundraiser"
+  },
+  {
+    "id": 6,
+    "name": "Emergency & Disaster Relief",
+    "description": "Support communities hit by floods, quakes & urgent crises.",
+    "to": "/emergency-disaster-fundraiser",
+    "urgent": true
+  }
+]

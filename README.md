@@ -1,75 +1,41 @@
-# Nuxt Minimal Starter
+# Social Angel
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+<p align="center">
+  <img src="social-angel-logo.png" alt="Social Angel Logo" width="180">
+</p>
 
-## Setup
+<h1 align="center">Social Angel</h1>
 
-Make sure to install dependencies:
+<p align="center">
+  <strong>Trusted Crowdfunding for Meaningful Causes</strong>
+</p>
 
-```bash
-# npm
-npm install
 
-# pnpm
-pnpm install
+Social Angel is a crowdfunding platform designed to connect people who need financial support with donors and communities willing to help.
 
-# yarn
-yarn install
+The platform focuses on making fundraising and giving easier, clearer, and more trustworthy by providing a place where people can create fundraising campaigns, discover causes, and contribute to meaningful needs.
 
-# bun
-bun install
-```
+## What We Are Building
 
-## Development Server
+- **Fundraising** — Create and manage crowdfunding campaigns.
+- **Donations** — Discover causes and contribute to campaigns.
+- **Transparency** — Present clear campaign and fundraising information.
+- **Trust & Safety** — Support safeguards around campaigns and contributions.
+- **Community Support** — Connect donors, fundraisers, and communities.
+- **Social Impact** — Help contributions support people and causes that need assistance.
 
-Start the development server on `http://localhost:3000`:
+## Core Vision
 
-```bash
-# npm
-npm run dev
+> Build a trusted crowdfunding platform where giving is simple, transparent, and connected to real community needs.
 
-# pnpm
-pnpm dev
 
-# yarn
-yarn dev
+## Community
 
-# bun
-bun run dev
-```
+Social Angel brings together fundraisers, donors, supporters, and communities around causes that matter.
 
-## Production
 
-Build the application for production:
+---
 
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+<p align="center">
+  Made for people, communities, and causes that need support.
+</p>

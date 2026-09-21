@@ -57,7 +57,7 @@ onUnmounted(() => window.removeEventListener('keydown', onKeydown))
 
 <template>
   <div class="fixed inset-0 z-[300] flex items-center justify-center bg-slate-950/45 p-4" role="presentation" @click.self="close">
-    <section class="relative w-full max-w-md rounded-2xl bg-white p-5 shadow-2xl sm:p-6" role="dialog" aria-modal="true" aria-labelledby="auth-modal-title">
+    <section class="relative max-h-[calc(100dvh-2rem)] w-full max-w-md overflow-y-auto rounded-2xl bg-white p-5 shadow-2xl sm:p-6" role="dialog" aria-modal="true" aria-labelledby="auth-modal-title">
       <button type="button" class="btn btn-ghost btn-sm btn-circle absolute right-3 top-3" aria-label="Close" @click="close"><X class="size-5" /></button>
       <p class="text-sm font-semibold text-green-700">SocialAngel</p>
       <h2 id="auth-modal-title" class="mt-1 text-2xl font-bold text-green-950">{{ isLogin ? 'Welcome back' : 'Create your account' }}</h2>

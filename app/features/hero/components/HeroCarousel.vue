@@ -26,7 +26,7 @@ function nextSlide() {
 </script>
 
 <template>
-  <section class="w-full overflow-hidden py-6">
+  <section class="w-full overflow-hidden py-3 sm:py-6">
     <Swiper
       :modules="[Autoplay, Pagination]"
       slides-per-view="auto"
@@ -52,7 +52,8 @@ function nextSlide() {
         <div
           class="
             relative
-            h-[360px]
+            h-[420px]
+            sm:h-[360px]
             overflow-hidden
             rounded-2xl
             bg-[#e4f5ef]
@@ -62,13 +63,19 @@ function nextSlide() {
           <div
             class="
               absolute
-              inset-y-0
+              inset-x-0
+              top-0
               left-0
               z-20
               flex
-              w-[52%]
+              h-[55%]
+              w-full
               items-center
-              px-8
+              px-6
+              sm:inset-y-0
+              sm:h-auto
+              sm:w-[52%]
+              sm:px-8
               md:px-10
             "
           >
@@ -88,10 +95,11 @@ function nextSlide() {
               <!-- Title -->
               <h1
                 class="
-                  text-3xl
+                  text-2xl
                   font-bold
                   leading-[1.08]
                   text-[#092c27]
+                  sm:text-3xl
                   md:text-4xl
                 "
               >
@@ -137,10 +145,13 @@ function nextSlide() {
           <div
             class="
               absolute
+              bottom-0
               right-0
-              top-0
-              h-full
-              w-[56%]
+              h-[48%]
+              w-full
+              sm:top-0
+              sm:h-full
+              sm:w-[56%]
             "
           >
             <img
@@ -161,6 +172,8 @@ function nextSlide() {
                 left-0
                 w-[110px]
                 bg-[#e4f5ef]
+                hidden
+                sm:block
               "
               style="
                 clip-path: polygon(

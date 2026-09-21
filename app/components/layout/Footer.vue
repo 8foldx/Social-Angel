@@ -14,7 +14,7 @@ interface FooterColumn {
 
 <template>
   <footer class="bg-white">
-    <div class="container mx-auto px-6 lg:px-10">
+    <div class="container mx-auto px-4 sm:px-6 lg:px-10">
 
       <!-- Footer Links -->
       <div class="border-t border-gray-200 py-12">

@@ -61,12 +61,12 @@ const causes: Cause[] = [
 
     <!-- Causes -->
     <div
-      class="mt-8 flex w-full overflow-hidden border-b border-[#d9d9d9]"
+      class="mt-6 flex w-full snap-x overflow-x-auto border-b border-[#d9d9d9] sm:mt-8"
     >
       <button
         v-for="(cause, index) in causes"
         :key="cause.name"
-        class="group relative flex min-w-[120px] flex-1 flex-col items-center justify-center pb-3 text-center"
+        class="group relative flex w-24 shrink-0 snap-start flex-col items-center justify-center pb-3 text-center sm:w-[120px]"
       >
         <!-- Active underline -->
         <span

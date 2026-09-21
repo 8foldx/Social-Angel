@@ -17,10 +17,10 @@ const partnerList = partners as Partner[]
 
 <template>
   <section
-    class="w-full overflow-hidden px-10 py-10"
+    class="w-full overflow-hidden px-4 py-8 sm:px-10 sm:py-10"
   >
     <!-- Heading -->
-    <div class="container mx-auto mb-8 px-5">
+    <div class="container mx-auto mb-6 sm:mb-8 sm:px-5">
       <h2 class="text-3xl font-bold tracking-tight text-black">
         <span class="text-green-700">Our Trusted</span>
         Partners
